@@ -1,0 +1,27 @@
+ <div class="container-fluid">
+        <div class="row justify-content-start">
+            <div class="col-4" style = "background-color: red;">first column</div>
+            <div class="col-4" style = "background-color: blue;">second column</div>
+            
+        </div>
+
+        <div class="row justify-content-center">
+            <div class="col-6" style = "background-color: pink;">first column</div>
+            <div class="col-6" style = "background-color: tomato;">second column</div> 
+        </div>
+
+        <div class="row justify-content-end">
+            <div class="col-4" style = "background-color: yellow;">first column</div>
+            <div class="col-4" style = "background-color: orange;">second column</div> 
+        </div>
+
+        <div class="row justify-content-around">
+            <div class="col-4" style = "background-color: green;">first column</div>
+            <div class="col-4" style = "background-color: rebeccapurple;">second column</div> 
+        </div>
+
+        <div class="row justify-content-evenly">
+            <div class="col-4" style = "background-color: green;">first column</div>
+            <div class="col-4" style = "background-color: rebeccapurple;">second column</div> 
+        </div>
+    </div>
