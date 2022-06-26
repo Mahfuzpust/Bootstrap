@@ -1,0 +1,22 @@
+    <div class="container">
+        <div class="div1 bg-primary text-dark">
+            <h1>I am Mahfuz</h1>
+            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sunt iure distinctio vitae.</p>
+        </div>
+        <div class="div2 bg-secondary">
+            <h1>I am Mahfuz</h1>
+            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sunt iure distinctio vitae.</p>
+        </div>
+        <div class="div3 bg-success">
+            <h1>I am Mahfuz</h1>
+            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sunt iure distinctio vitae.</p>
+        </div>
+        <div class="div4 bg-danger">
+            <h1>I am Mahfuz</h1>
+            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sunt iure distinctio vitae.</p>
+        </div>
+        <div class="div5 bg-warning text-success">
+            <h1>I am Mahfuz</h1>
+            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sunt iure distinctio vitae.</p>
+        </div>
+    </div>
