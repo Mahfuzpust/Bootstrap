@@ -1,0 +1,8 @@
+<div class="student-list">
+            <ul class="list-group">
+                <li class="list-group-item bg-primary text-white">Md. Mahfuzur Rahman</li>
+                <li class="list-group-item bg-success text-white">Mahfuz Khan Raj</li>
+                <li class="list-group-item bg-info text-white">Raj Rahi </li>
+            </ul>
+
+         </div>
