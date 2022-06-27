@@ -1,0 +1,5 @@
+        <div class="btn-group">
+           <button class="btn btn-block  mb-3 btn-outline-primary ">Submit</button>
+           <button class="btn mb-3  btn-primary"> Reset</button>
+           <a href="#" class="btn mb-3 btn-primary"> visit the page </a>
+         </div>
