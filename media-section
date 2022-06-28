@@ -1,0 +1,43 @@
+<div class="media-section">
+                <div class="title text-center mb-3">
+                    <h2 class="font-weight-bolder">My Blogs</h2>
+                </div>
+
+                <div class="media border p-3 mt-3">
+                    <img style="wieght:100px; height:100px" class="rounded-circle mr-4" src="img/mahfuz (2).jpg">
+                    <div class="media-body">
+                        <h2>I am in expert in bootstrap</h2>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Et autem veritatis nostrum magni voluptate dignissimos repellat eligendi amet minima sunt?</p>
+                    </div>
+                </div>
+
+                <div class="media border p-3 mt-3">
+                    <div class="media-body">
+                        <h2>I am in expert in bootstrap</h2>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Et autem veritatis nostrum magni voluptate dignissimos repellat eligendi amet minima sunt? Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt magni repudiandae consectetur, temporibus ipsum voluptate vel quisquam. Quam minus quis vitae temporibus maiores ipsum rerum, delectus magni molestias! Nobis ut sapiente quo sint dolore maxime et id aliquam quisquam. Eveniet labore voluptatum quas ab magnam quisquam at architecto reprehenderit? Maxime! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi reiciendis, at voluptatum corporis quas suscipit consequuntur consectetur debitis impedit neque alias commodi eaque nisi recusandae ut culpa nobis ullam sunt qui ratione facilis, temporibus ea! Quas reiciendis maiores sapiente repellendus voluptates quod beatae, tempora error reprehenderit illum vel ab consequuntur animi laborum eligendi ut, asperiores eveniet placeat blanditiis neque molestias magni? Magni debitis consequuntur in soluta cum! Vero, obcaecati? Eius, aliquid. Esse excepturi officiis aut architecto nemo quae sequi, ratione earum exercitationem? Voluptatum laboriosam, labore mollitia vitae optio incidunt blanditiis magni in tempora, numquam porro? Distinctio, perferendis necessitatibus ullam fugiat id a repellat provident cupiditate modi eum consequatur iste ratione quod accusantium esse qui laborum dignissimos, debitis natus minima doloribus, veniam sint praesentium? Odit tenetur minima provident similique? Laudantium, architecto hic error eaque et sint doloribus iusto deserunt ducimus, suscipit officia veniam! Exercitationem hic quia optio reprehenderit architecto sunt itaque expedita nobis. Fugit neque laborum itaque distinctio porro magnam molestias deserunt iure voluptatibus excepturi error minima consequuntur exercitationem id officiis et nisi quos provident iste, accusamus quibusdam? Et, tenetur? Veniam consectetur accusantium earum dolorem blanditiis numquam? Aliquid totam natus vero quae dolorem. Magni delectus dolore magnam ex, expedita iure molestias?</p>
+                    </div>
+                    <img style="wieght:100px; height:100px" class="rounded-circle mr-4" src="img/mahfuz (2).jpg">
+                </div>
+
+            </div><div class="media-section">
+                <div class="title text-center mb-3">
+                    <h2 class="font-weight-bolder">My Blogs</h2>
+                </div>
+
+                <div class="media border p-3 mt-3">
+                    <img style="wieght:100px; height:100px" class="rounded-circle mr-4" src="img/mahfuz (2).jpg">
+                    <div class="media-body">
+                        <h2>I am in expert in bootstrap</h2>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Et autem veritatis nostrum magni voluptate dignissimos repellat eligendi amet minima sunt?</p>
+                    </div>
+                </div>
+
+                <div class="media border p-3 mt-3">
+                    <div class="media-body">
+                        <h2>I am in expert in bootstrap</h2>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Et autem veritatis nostrum magni voluptate dignissimos repellat eligendi amet minima sunt? Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt magni repudiandae consectetur, temporibus ipsum voluptate vel quisquam. Quam minus quis vitae temporibus maiores ipsum rerum, delectus magni molestias! Nobis ut sapiente quo sint dolore maxime et id aliquam quisquam. Eveniet labore voluptatum quas ab magnam quisquam at architecto reprehenderit? Maxime! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi reiciendis, at voluptatum corporis quas suscipit consequuntur consectetur debitis impedit neque alias commodi eaque nisi recusandae ut culpa nobis ullam sunt qui ratione facilis, temporibus ea! Quas reiciendis maiores sapiente repellendus voluptates quod beatae, tempora error reprehenderit illum vel ab consequuntur animi laborum eligendi ut, asperiores eveniet placeat blanditiis neque molestias magni? Magni debitis consequuntur in soluta cum! Vero, obcaecati? Eius, aliquid. Esse excepturi officiis aut architecto nemo quae sequi, ratione earum exercitationem? Voluptatum laboriosam, labore mollitia vitae optio incidunt blanditiis magni in tempora, numquam porro? Distinctio, perferendis necessitatibus ullam fugiat id a repellat provident cupiditate modi eum consequatur iste ratione quod accusantium esse qui laborum dignissimos, debitis natus minima doloribus, veniam sint praesentium? Odit tenetur minima provident similique? Laudantium, architecto hic error eaque et sint doloribus iusto deserunt ducimus, suscipit officia veniam! Exercitationem hic quia optio reprehenderit architecto sunt itaque expedita nobis. Fugit neque laborum itaque distinctio porro magnam molestias deserunt iure voluptatibus excepturi error minima consequuntur exercitationem id officiis et nisi quos provident iste, accusamus quibusdam? Et, tenetur? Veniam consectetur accusantium earum dolorem blanditiis numquam? Aliquid totam natus vero quae dolorem. Magni delectus dolore magnam ex, expedita iure molestias?</p>
+                    </div>
+                    <img style="wieght:100px; height:100px" class="rounded-circle mr-4" src="img/mahfuz (2).jpg">
+                </div>
+
+            </div>
