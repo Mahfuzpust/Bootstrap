@@ -1,0 +1,62 @@
+        <div class="customer-review pt-3 bg-light ">
+            <div class="title text-center mb-4">
+                <h2 class="font-weight-bolder">Tutorials</h2>
+            </div>
+
+            <div class="row mb-5">
+                <div class="col-3">
+                    <div class="card">
+                        <img src="img/iphone.jpg">
+                       <div class="card-body">
+                        <div class="card-title">
+                            <h1>iPhone</h1>
+                            <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. A minima nemo nostrum quia aut beatae?</p>
+                            <a class="btn btn-primary px-4 " href="#">visit It</a>
+                            <a class="card-link stretched-link" target="blank" href="www.facebook.com"></a>
+                        </div>
+                       </div>
+                    </div>
+                </div>
+
+                <div class="col-3">
+                    <div class="card">
+                        <img src="img/iphone.jpg">
+                       <div class="card-body">
+                        <div class="card-title">
+                            <h1>iPhone</h1>
+                            <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. A minima nemo nostrum quia aut beatae?</p>
+                            <a class="btn btn-primary px-4 " href="#">visit It</a>
+                            <a class="card-link stretched-link" target="blank" href="www.facebook.com"></a>
+                        </div>
+                       </div>
+                    </div>
+                </div>     
+                <div class="col-3">
+                    <div class="card">
+                        <img src="img/iphone.jpg">
+                       <div class="card-body">
+                        <div class="card-title">
+                            <h1>iPhone</h1>
+                            <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. A minima nemo nostrum quia aut beatae?</p>
+                            <a class="btn btn-primary px-4 " href="#">visit It</a>
+                            <a class="card-link stretched-link" target="blank" href="www.facebook.com"></a>
+                        </div>
+                       </div>
+                    </div>
+                </div>
+
+                <div class="col-3">
+                    <div class="card">
+                        <img src="img/iphone.jpg">
+                       <div class="card-body">
+                        <div class="card-title">
+                            <h1>iPhone</h1>
+                            <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. A minima nemo nostrum quia aut beatae?</p>
+                            <a class="btn btn-primary px-4 " href="#">visit It</a>
+                            <a class="card-link stretched-link" target="blank" href="www.facebook.com"></a>
+                        </div>
+                       </div>
+                    </div>
+                </div>
+
+            </div>
