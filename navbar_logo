@@ -1,0 +1,15 @@
+<header>
+            <nav class="navbar navbar-expand bg-success navbar-dark mb-2 fixed-top">
+
+                <a href="#" class="navbar-brand">
+                    <img src="img/iphone.jpg" alt="logo" class="rounded-circle " style="weight:50px; height: 70px">
+                </a>
+                <ul class="navbar-nav m-auto">
+                    <li class="nav-item active"><a class="nav-link" href="#">Home</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#">Menu</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#">About</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#">Contact</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#">Add cart</a></li>
+                </ul>
+            </nav>
+        </header>
