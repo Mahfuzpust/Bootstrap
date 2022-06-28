@@ -1,0 +1,27 @@
+ <section class="bg-primary p-2 fixed-top">
+            <div class="row">
+                <div class="col-3 ">
+                    <a href="#" class="">
+                        <img src="img/iphone.jpg" alt="logo" class="rounded-circle mx-5" style="weight:50px; height: 70px">
+                    </a>
+
+                </div>
+                <div class="col-6 midValue">
+                    <ul class="nav text-center justify-content-center mt-3 ">
+                        <li class="nav-item "><a class="nav-link text-white" href="www.facebook.com" target="blank">Home</a></li>
+                        <li class="nav-item"><a class="nav-link text-white" href="#">Menu</a></li>
+                        <li class="nav-item"><a class="nav-link text-white" href="#">About</a></li>
+                        <li class="nav-item"><a class="nav-link text-white" href="#">Contact us</a></li>
+                        <li class="nav-item"><a class="nav-link text-white" href="#">add cart</a></li>
+                    </ul>
+                </div>
+
+                <div class="col-3">
+                    <ul class="nav text-center justify-content-center mt-3 ">
+                        <li class="nav-item "><a class="nav-link text-white" href="#">Home</a></li>
+                        <li class="nav-item"><a class="nav-link text-white" href="#">add cart</a></li>
+                    </ul>
+                </div>
+
+            </div>
+        </section>
