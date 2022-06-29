@@ -1,0 +1,47 @@
+          <form class="p-3  w-50">
+            <div class="p-3">
+                <label for="Email" class="form-label">Email Address : </label>
+                <input type="text" class="form-control">
+
+            </div>
+
+            <div class="p-3">
+                <label for="password" class="form-label">Password : </label>
+                <input type="email" class="form-control">
+                <div class="from-text">We'll never share your password </div>
+            </div>
+
+            <div class="p-3">
+                <div class="form-check">
+                    <input type="checkbox" class="form-check-input" id="value">
+                    <label for="value">check It</label>
+                </div>
+            </div>
+
+           <div class="p-3">
+            <div class="form-check-inline ">
+                <input type="radio" class="form-check-input" id="male">
+                <label for="male">Male</label>
+            </div>
+            <div class="form-check-inline">
+                <input type="radio" class="form-check-input" id="female">
+                <label for="female">Female</label>
+            </div>
+           </div>
+
+            <div class="m-3">
+                <label for="department">Departmemt</label>
+                <select name="departmemt" id="department" class="form-select">
+                    <option value="eee">EEE</option>
+                    <option value="cse" selected>CSE</option>
+                    <option value="ice">ICE</option>
+                    <option value="ce">CE</option>
+                </select>
+            </div>
+
+            <div>
+                <button type="submit" class="btn btn-info">Submit</button>
+                <button type="reset" class="btn btn-info">Reset</button>
+            </div>
+
+          </form>
